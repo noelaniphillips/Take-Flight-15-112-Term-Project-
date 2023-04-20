@@ -10,5 +10,4 @@ The user should run the trainingMode file and the birdClass file for the game
 to run properly, no extra modules needed! Libraries needed include math and copy. There are no shortcut commands.
 
 
-Here is the link to the video: https://youtu.be/UhWmqH9CZJ8
 
